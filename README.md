@@ -16,10 +16,9 @@
 
 ---
 
-## `Who am I!?`
+## `🎓Who am I..!?`
 
 ```python
-class Srushti:
     Name       = "Srushti Jadhav"
     Role       = "Backend Software Developer (Golang Intern)"
     Institute  = "K.K. Wagh College of Engineering, Nashik"
@@ -34,7 +33,7 @@ class Srushti:
 
 ---
 
-## `$ ls skills/`
+## `📜Skills:`
 
 **Languages**
 
@@ -58,7 +57,7 @@ class Srushti:
 
 ---
 
-## `$ git stats`
+## `git status:`
 
 <div align="center">
 
@@ -76,7 +75,7 @@ class Srushti:
 
 ---
 
-## `$ projects`
+## `📜Projects:`
 
 **🎓 E-School Platform — Educational SaaS Backend**
 `Go` `PostgreSQL` `GORM` `Docker` `JWT Auth`
@@ -95,7 +94,7 @@ class Srushti:
 
 ---
 
-## `$ cat experience.txt`
+## `📜Experience:`
 
 **BilSam Technologies Pvt. Ltd., Pune** — Golang Backend Developer Intern
 *Feb 2026 – Present*
@@ -110,9 +109,9 @@ class Srushti:
 
 ---
 
-## `$ achievements`
+## `🏆Achievements`
 
-🏆 All India Rank (AIR) 27 in SAE India E-BAJA 2025 (National Competition)
+ All India Rank (AIR) 27 in SAE India E-BAJA 2025 (National Competition)
 🏆 Winner at IIT Bombay TechFest Robotics
 🏆 Finalist at Robotex India International
 🏆 State & National Level Wins in Multiple Robotics & Engineering Competitions
@@ -120,7 +119,7 @@ class Srushti:
 
 ---
 
-## `$ ping me`
+## `Ping Me:`
 
 <div align="center">
 
