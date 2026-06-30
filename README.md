@@ -16,7 +16,7 @@
 
 ---
 
-## `🎓Who am I..!?`
+## `👩🏻‍💻Who am I..!?`
 
 ```python
     Name       = "Srushti Jadhav"
@@ -57,7 +57,7 @@
 
 ---
 
-## `git status:`
+## `<git status:>`
 
 <div align="center">
 
@@ -119,7 +119,7 @@
 
 ---
 
-## `Ping Me:`
+## `💬Ping Me:`
 
 <div align="center">
 
