@@ -94,7 +94,7 @@
 
 ---
 
-## `📜Experience:`
+## `🏣Experience:`
 
 **BilSam Technologies Pvt. Ltd., Pune** — Golang Backend Developer Intern
 *Feb 2026 – Present*
@@ -109,7 +109,7 @@
 
 ---
 
-## `🏆Achievements`
+## `🏆Achievements:`
 
  All India Rank (AIR) 27 in SAE India E-BAJA 2025 (National Competition)
 🏆 Winner at IIT Bombay TechFest Robotics
