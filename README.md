@@ -54,7 +54,7 @@
 
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00b4d8)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00b4d8)
-![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-0d1117?style=flat-square&logo=google&logoColor=00b4d8)
+![Antigravity](https://img.shields.io/badge/Google_Antigravity-0d1117?style=flat-square&logo=google&logoColor=00b4d8)
 
 ---
 
