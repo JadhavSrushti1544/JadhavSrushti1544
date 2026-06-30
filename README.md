@@ -16,7 +16,7 @@
 
 ---
 
-## `$ whoami`
+## `Who am I!?`
 
 ```python
 class Srushti:
