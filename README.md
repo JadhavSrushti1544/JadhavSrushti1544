@@ -5,7 +5,7 @@
 
 <!-- TYPING HEADLINE -->
 <a href="https://github.com/JadhavSrushti1544">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Srushti+Jadhav+%F0%9F%91%8B;Backend+Software+Developer;Golang+%7C+REST+APIs+%7C+System+Design;Final+Year+CSE+%40+K.K.+Wagh+COE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Srushti+Jadhav+%F0%9F%91%8B;Backend+Software+Developer;Golang+%7C+REST+APIs+%7C+System+Design" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,17 +20,16 @@
 
 ```python
 class Srushti:
-    name       = "Srushti Jadhav"
-    role       = "Backend Software Developer (Golang Intern)"
-    institute  = "K.K. Wagh College of Engineering, Nashik"
-    year       = "Final Year (2023-2026)"
-    location   = "Nashik, Maharashtra, India"
-    focus      = ["Backend Systems", "REST APIs", "Database Design", "System Architecture", "DSA"]
-    languages  = ["Go", "Python", "SQL", "C++"]
-    tools      = ["PostgreSQL", "Docker", "AWS", "Git", "GitHub", "Redis", "GORM"]
-    open_to    = ["Full-time Backend Roles", "Freelance Projects", "Open Source Contributions"]
-    current    = "Golang Backend Developer Intern @ BilSam Technologies"
-    fun_fact   = "AIR 27 in SAE India E-BAJA 2025 🏆 | Building production-grade educational SaaS APIs 🚀"
+    Name       = "Srushti Jadhav"
+    Role       = "Backend Software Developer (Golang Intern)"
+    Institute  = "K.K. Wagh College of Engineering, Nashik"
+    Year       = "Final Year (2023-2026)"
+    Focus      = ["Backend Systems", "REST APIs", "Database Design", "System Architecture", "DSA"]
+    Languages  = ["Go", "Python", "SQL", "C++"]
+    Tools      = ["PostgreSQL", "Docker", "AWS", "Git", "GitHub", "Redis", "GORM"]
+    OpenTo     = ["Full-time Backend Roles", "Freelance Projects", "Open Source Contributions"]
+    Current    = "Golang Backend Developer Intern @ BilSam Technologies"
+    FunFact    = "AIR 27 in SAE India E-BAJA 2025 🏆 | Building production grade educational SaaS APIs 🚀"
 ```
 
 ---
