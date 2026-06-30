@@ -57,7 +57,7 @@
 
 ---
 
-## `<git status:>`
+## `<git status>`
 
 <div align="center">
 
