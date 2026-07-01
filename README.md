@@ -111,7 +111,7 @@
 
 ## `🏆Achievements:`
 
- All India Rank (AIR) 27 in SAE India E-BAJA 2025 (National Competition)
+🏆 All India Rank (AIR) 27 in SAE India E-BAJA 2025 (National Competition)
 🏆 Winner at IIT Bombay TechFest Robotics
 🏆 Finalist at Robotex India International
 🏆 State & National Level Wins in Multiple Robotics & Engineering Competitions
