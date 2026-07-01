@@ -47,7 +47,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00b4d8)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00b4d8)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=00b4d8)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=00b4d8)
 ![GORM](https://img.shields.io/badge/GORM-0d1117?style=flat-square&logo=go&logoColor=00b4d8)
 
 **Tools**
