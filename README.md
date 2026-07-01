@@ -97,13 +97,13 @@
 ## `🏣Experience:`
 
 **BilSam Technologies Pvt. Ltd., Pune** - Golang Backend Developer Intern
-*Feb 2026 – Present*
+*Feb 2026 - Present*
 - Developing 25+ RESTful APIs for Education SaaS using Go, Chi Router, GORM, PostgreSQL
 - Building scalable backend modules following Clean Architecture and Repository Pattern
 - Implementing JWT authentication, RBAC, rate limiting, and database optimization
 
 **FOX Solutions Pvt. Ltd., Nashik** - Software Intern
-*Jun 2025 – Jan 2026*
+*Jun 2025 - Jan 2026*
 - Developed PyQt5 interactive dashboard for industrial monitoring and SQL Server integration
 - Built real-time computer vision system for MCB defect detection (97.04% accuracy)
 
