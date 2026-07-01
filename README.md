@@ -77,7 +77,7 @@
 
 ## `📜Projects:`
 
-**🎓 E-School Platform — Educational SaaS Backend**
+**🎓 E-School Platform - Educational SaaS Backend**
 `Go` `PostgreSQL` `GORM` `Docker` `JWT Auth`
 - Scalable REST API managing students, assessments, questions, books with 8+ entities and complete CRUD operations
 - Optimized with GORM Preloads, JWT authentication, rate limiting, and student analytics dashboard
@@ -96,13 +96,13 @@
 
 ## `🏣Experience:`
 
-**BilSam Technologies Pvt. Ltd., Pune** — Golang Backend Developer Intern
+**BilSam Technologies Pvt. Ltd., Pune** - Golang Backend Developer Intern
 *Feb 2026 – Present*
 - Developing 25+ RESTful APIs for Education SaaS using Go, Chi Router, GORM, PostgreSQL
 - Building scalable backend modules following Clean Architecture and Repository Pattern
 - Implementing JWT authentication, RBAC, rate limiting, and database optimization
 
-**FOX Solutions Pvt. Ltd., Nashik** — Software Intern
+**FOX Solutions Pvt. Ltd., Nashik** - Software Intern
 *Jun 2025 – Jan 2026*
 - Developed PyQt5 interactive dashboard for industrial monitoring and SQL Server integration
 - Built real-time computer vision system for MCB defect detection (97.04% accuracy)
