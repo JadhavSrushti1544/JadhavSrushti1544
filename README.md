@@ -28,7 +28,6 @@
     Tools      = ["PostgreSQL", "Docker", "AWS", "Git", "GitHub", "Redis", "GORM"]
     OpenTo     = ["Full-time Backend Roles", "Freelance Projects", "Open Source Contributions"]
     Current    = "Golang Backend Developer Intern @ BilSam Technologies"
-    FunFact    = "AIR 27 in SAE India E-BAJA 2025 🏆 | Building production grade educational SaaS APIs 🚀"
 ```
 
 ---
